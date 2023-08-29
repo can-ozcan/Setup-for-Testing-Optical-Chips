@@ -20,4 +20,4 @@ The setup uses the following:
 
 The diagrams for the optical measurement setups are provided, along with the scripts (Matlab and Arduino) for serial instrument control and data collection. Although this setup was built with relatively old equipment, the methodology can be applied with similar equipment with slight modifications.
 
-I aim this repository to be a guide to future PhD\Master's students, as well as anyone who is planning to build their own setups to characterize their optical chips.
+I aim this repository to be a guide to future PhD/Master's students, as well as anyone who is planning to build their own setups to characterize their optical chips.
