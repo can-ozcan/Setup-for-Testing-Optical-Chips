@@ -1,7 +1,7 @@
 # Setup-for-Testing-Optical-Chips
 This repository describes my optical testing setup for optical chips with edge couplers.
 
-The advantages of this setup is:
+The advantages of this setup are:
 - Transmission measurements are not affected by power and polarization fluctuations of the laser.
 - The polarization control and the data collection is automated.
 - High repeataility with very low difference (~ 0.02 dB) in separate measurements.
