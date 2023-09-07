@@ -25,8 +25,13 @@ I have 2 setups to present:
 - Setup 1 is to be used with a tunable laser and photodiodes. It provides excellent repeatability, and it is agnostic to laser power and polarization.
 - Setup 2 is to be used with a broadband source and an optical spectrum analyzer (and optionally photodiodes). It provides rapid measurements, excellent for characterizing resonators, interferoemeters, and sensors. However, it might suffer from power and polarization fluctuations of the source.
 
+
+
 Setup 1:
 ![Setup 1](https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/803dd947-ea16-48cc-b449-51848ea8cc0f)
+
+
+
 
 
 Setup 2:
