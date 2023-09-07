@@ -20,3 +20,15 @@ The setup uses the following:
 The diagrams for the optical measurement setups are provided, along with the scripts (Matlab and Arduino) for serial instrument control and data collection. Although this setup was built with relatively old equipment, the methodology can be applied with similar equipment with slight modifications.
 
 I aim this repository to be a guide for future PhD/Master's students, as well as anyone who is planning to build their own setups to characterize their optical chips.
+
+I have 2 setups to present:
+- Setup 1 is to be used with a tunable laser and photodiodes. It provides excellent repeatability, and it is agnostic to laser power and polarization.
+- Setup 2 is to be used with a broadband source and an optical spectrum analyzer (and optionally photodiodes). It provides rapid measurements, excellent for characterizing resonators, interferoemeters, and sensors. However, it might suffer from power and polarization fluctuations of the source.
+
+Setup 1:
+![Setup 1](https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/803dd947-ea16-48cc-b449-51848ea8cc0f)
+
+
+Setup 2:
+![Setup 2](https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/19cdbcd5-6b34-46af-a884-486bca2fd9e1)
+
