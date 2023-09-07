@@ -11,3 +11,8 @@ Setup 1 has excellent repeatability and is agnostic to the power and polarizatio
 - The ratio of the measured powers on photodioe 1 and the other photodioes are insensitive to laser power and polarization.
 - The polarization beam splitter at the output side ensures the depolarized portion of the light is filtered.
 
+![Setup 1](https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/21abbb39-38c2-4241-b01d-965989b6a26b)
+
+
+One should be careful while choosing the spot size for their experiments since the alignment tolerances are strongly dependent on the spot size. A smaller spot size typically allows lower coupling losses at the cost of more difficult alignment procedure:
+![Misalignment](https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/e60df3f4-d6c7-4578-b897-cfde9c7760fe)
