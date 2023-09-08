@@ -13,6 +13,10 @@ Setup 1 has excellent repeatability and is agnostic to the power and polarizatio
 
 ![Setup 1](https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/21abbb39-38c2-4241-b01d-965989b6a26b)
 
+The workflow  for the measurement procedure is as follows:
+
+![Setup 1 workflow](https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/81137889-eca6-4b91-a06d-72a93215bb19)
+
 
 One should be careful while choosing the spot size for their experiments since the alignment tolerances are strongly dependent on the spot size. A smaller spot size typically allows lower coupling losses at the cost of more difficult alignment procedure:
 ![Misalignment](https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/e60df3f4-d6c7-4578-b897-cfde9c7760fe)
