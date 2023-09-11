@@ -7,15 +7,16 @@ The advantages of this setup are:
 - High repeataility with very low difference (~ 0.02 dB) in separate measurements.
 
 The setup uses the following:
-- 3 photodiodes and 3 powermeters OR an Optical Spectrum Analyzer (OSA)
-- A tunable laser (1460-1600 nm) OR a broadband source (centered at 1550 nm, 3 dB bandwidth of 45 nm)
+- 3 photodiodes and 3 powermeters OR an Optical Spectrum Analyzer (OSA). (Photodiodes: Newport 818IR, OSA: Agilent 86142B)
+- A tunable laser (1460-1600 nm) OR a broadband source (centered at 1550 nm, 3 dB bandwidth of 45 nm). (Broadband source: Thorlabs S5FC1005S).
 - Waveplate and linear polarizer for polarization control of the input beam.
-- 50:50 and 90:10 polarization manintatining fiber optical power splitters
-- A 2x2 fiber optical switch
-- A fiber-based polarization beam splitter
-- A very stable edge coupling stage (Luminos)
-- An Arduino to control polarization controller and the optical switch
-- Polarization maintatining fibers, fiber connectors
+- Tapered fibers for light coupling (OzOptics TPMJ-3A-1550-8/125-0.25-7-5-26-2-AR)
+- 50:50 and 90:10 polarization manintatining fiber optical power splitters (OzOptics FUSED-22-1550-9/125-90/10-3A3A3A3A-1-1 and FUSED-12-1550-8/125-50/50-3A3A3A-1-1-PM).
+- A 2x2 fiber optical switch (Mouser, Product no: 538-OFMS2200ES05111).
+- A fiber-based polarization beam splitter (OzOptics FOBS-12N-111-8/125-PPP-1550-PBS-60-3A3A3A-1-1).
+- A very stable edge coupling stage (Luminos).
+- An Arduino to control polarization controller and the optical switch (Arduino Mega).
+- Polarization maintatining fibers, fiber connectors.
 
 The diagrams for the optical measurement setups are provided, along with the scripts (Matlab and Arduino) for serial instrument control and data collection. Although this setup was built with relatively old equipment, the methodology can be applied with similar equipment with slight modifications.
 
