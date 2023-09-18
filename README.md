@@ -28,19 +28,19 @@ I have 2 setups to present:
 
 Examples of measurement results achieved with these setups:
 <p align="center">
-  <img src="https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/c339c149-6b49-45e1-b221-dbd804918377" width=75% height=75%>
+  <img src="https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/03acae7d-2159-4336-97dc-911ae2cf26cd" width=75% height=75%>
 </p>
 
 &nbsp;
 
 **Setup 1:**
 <p align="center">
-  <img src="https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/803dd947-ea16-48cc-b449-51848ea8cc0f" width=75% height=75%>
+  <img src="https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/704f07e9-b2d3-4825-b2a5-6245c3f8a208" width=75% height=75%>
 </p>
 
 &nbsp;
 
 **Setup 2:**
 <p align="center">
-  <img src="https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/19cdbcd5-6b34-46af-a884-486bca2fd9e1" width=75% height=75%>
+  <img src="https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/96ebbeae-3d13-42f4-bf5c-749a50055ed7" width=75% height=75%>
 </p>
