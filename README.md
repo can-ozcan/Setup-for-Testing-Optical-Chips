@@ -33,16 +33,14 @@ Examples of measurement results achieved with these setups:
 
 &nbsp;
 
-Setup 1:
+**Setup 1:**
 <p align="center">
   <img src="https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/803dd947-ea16-48cc-b449-51848ea8cc0f" width=75% height=75%>
 </p>
 
 &nbsp;
 
-&nbsp;
-
-Setup 2:
+**Setup 2:**
 <p align="center">
   <img src="https://github.com/can-ozcan/Setup-for-Testing-Optical-Chips/assets/87956141/19cdbcd5-6b34-46af-a884-486bca2fd9e1" width=75% height=75%>
 </p>
